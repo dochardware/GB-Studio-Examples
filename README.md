@@ -2,7 +2,7 @@
 Example videos and roms for GBS concepts
 
 # Text Entry
-Two ways of doing text entry as well as using the same variables to impact other things like stats. There are no strings so each character's ascii value has to be stored to a variable each, meaning when you call the name in dialog, you have to call all the variables one after the other using # instead of $. I edited the font files to replace the @ symbol (ascii char 64) to just be empty using the magenta color designed for variable width fonts so if there is an empty character, it gives the illusion that the name is shorter insead of making a bunch of switch cases.
+Two ways of doing text entry as well as using the same variables to impact other things like stats. There are no strings so each character's [ascii value](https://www.asciitable.com/) has to be stored to a variable each, meaning when you call the name in dialog, you have to call all the variables one after the other using # instead of $. I edited the font files to replace the @ symbol (ascii char 64) to just be empty using the magenta color designed for variable width fonts so if there is an empty character, it gives the illusion that the name is shorter insead of making a bunch of switch cases.
 
 ## Keyboard
 [Text Entry 1 - ROM Download](https://github.com/dochardware/GB-Studio-Examples/blob/main/TextEntry_V1.gb)
