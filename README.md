@@ -5,7 +5,7 @@ Example videos and roms for GBS concepts
 Two ways of doing text entry as well as using the same variables to impact other things like stats. There are no strings so each character's ascii value has to be stored to a variable each, meaning when you call the name in dialog, you have to call all the variables one after the other using # instead of $. I edited the font files to replace the @ symbol (ascii char 64) to just be empty using the magenta color designed for variable width fonts so if there is an empty character, it gives the illusion that the name is shorter insead of making a bunch of switch cases.
 
 ## Keyboard
-[Text Entry 1](https://github.com/dochardware/GB-Studio-Examples/blob/main/TextEntry_V1.gb)
+[Text Entry 1 - ROM Download](https://github.com/dochardware/GB-Studio-Examples/blob/main/TextEntry_V1.gb)
 
 https://github.com/dochardware/GB-Studio-Examples/assets/1316677/60af7f73-48ae-4287-8da7-21d82c43f346
 
@@ -17,7 +17,7 @@ You could also just use triggers for this style of entry but if you plan on havi
 
 
 ## Slots
-[Text Entry 2](https://github.com/dochardware/GB-Studio-Examples/blob/main/TextEntry_V2.gb)
+[Text Entry 2 - ROM Download](https://github.com/dochardware/GB-Studio-Examples/blob/main/TextEntry_V2.gb)
 
 https://github.com/dochardware/GB-Studio-Examples/assets/1316677/83470b30-fcee-401c-b4b9-3c53648c3f39
 
