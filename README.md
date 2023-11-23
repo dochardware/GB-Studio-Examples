@@ -6,6 +6,7 @@ Two ways of doing text entry as well as using the same variables to impact other
 
 ## Keyboard
 [Text Entry]https://github.com/dochardware/GB-Studio-Examples/blob/main/TextEntry_V1.gb
+
 https://github.com/dochardware/GB-Studio-Examples/assets/1316677/60af7f73-48ae-4287-8da7-21d82c43f346
 
 This one uses the Get Tile ID plugin to pull the unique tile id that the player/cursor is currently on top of and stored to a variable, then a value is added to the variable so it matches the ascii value of that character. The tricky part here is that *all* the background tiles have different IDs except where they're identical so in order to make this work, you'd have to check the id's of your letter tiles at the beginning of each row, then adjust how much is added to the variable based on what row the player is on.
