@@ -6,6 +6,7 @@ Two ways of doing text entry as well as using the same variables to impact other
 
 ![gbs-var](https://github.com/dochardware/GB-Studio-Examples/assets/1316677/78041a48-8fef-4931-a5d7-e12c4ff3e06d)
 
+![name_entry](https://github.com/dochardware/GB-Studio-Examples/assets/1316677/d4ae9528-9b5f-4ecf-9592-134950402cf8)
 
 
 ## Keyboard
